@@ -1,2 +1,0 @@
-# LocalStorageReact
-Created with CodeSandbox
